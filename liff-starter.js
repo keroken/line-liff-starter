@@ -13,7 +13,7 @@ function initializeApp(data) {
         altText: "ラッキーカラー",
         template: {
         type: 'buttons',
-        thumbnailImageUrl: 'https://{herokuに追加したウェブアプリのURL}/img/spacer.gif',//背景はファイルサイズ抑えるため透過のGIF画像を入れて見ました
+        thumbnailImageUrl: 'https://liff-starter98.herokuapp.com/index.html/img/spacer.gif',//背景はファイルサイズ抑えるため透過のGIF画像を入れて見ました
         imageAspectRatio: 'square',
         imageSize: 'contain',
         imageBackgroundColor: color,
