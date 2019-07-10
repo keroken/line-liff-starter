@@ -22,7 +22,7 @@ function initializeApp(data) {
             {
             type: "uri",
             label: "ラッキーカラーを見てみよう",
-            uri: "line://app/{liffId}"//ここに先ほど取得したliffIdを
+            uri: "line://app/1597874033-mnPKGEXb"//ここに先ほど取得したliffIdを
             }
         ]
         }
